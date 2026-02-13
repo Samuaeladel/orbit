@@ -54,7 +54,7 @@
     "@types/uuid": "^8.3.1",
     "@types/react": "^18.0.0",
     "@types/react-dom": "^18.0.0",
-    "axios": "^1.8.2",
+    "axios": "^1.13.5",
     "babel-plugin-inline-react-svg": "^1.1.2",
     "babel-plugin-styled-components": "^2.0.7",
     "babel-preset-gatsby": "^2.17.0",
@@ -66,7 +66,7 @@
     "fontfaceobserver": "^2.1.0",
     "fs-extra": "^11.2.0",
     "fuzzaldrin-plus": "^0.6.0",
-    "gatsby": "^4.11.1",
+    "gatsby": "^5.14.0",
     "gatsby-image": "^3.11.0",
     "gatsby-plugin-create-client-paths": "^4.9.0",
     "gatsby-plugin-google-gtag": "^4.9.0",
@@ -122,6 +122,6 @@
     "use-resize-observer": "^8.0.0",
     "uuid": "^11.0.4",
     "vfile-reporter": "^7.0.5",
-    "webpack": "^5.94.0"
+    "webpack": "^5.104.1"
   }
 }
